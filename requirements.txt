@@ -2,9 +2,9 @@ streamlit
 google-api-python-client
 pandas
 numpy
-konlpy
 wordcloud
 matplotlib
 scikit-learn
 vaderSentiment
 Pillow
+kiwipiepy
