@@ -6,3 +6,11 @@ matplotlib
 vaderSentiment
 Pillow
 kiwipiepy
+streamlit
+google-api-python-client
+pandas
+wordcloud
+matplotlib
+vaderSentiment
+Pillow
+kiwipiepy
