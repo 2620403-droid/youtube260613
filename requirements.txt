@@ -5,4 +5,4 @@ wordcloud
 matplotlib
 vaderSentiment
 Pillow
-fonttools
+requests
